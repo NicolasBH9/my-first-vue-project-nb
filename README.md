@@ -1,6 +1,6 @@
-# my-first-vue-project-nb
+# SPA with Vue
 
-This template should help get you started developing with Vue 3 in Vite.
+The report for this project can be found here [`SPA-Vue-Nicolás Barragán`](https://github.com/NicolasBH9/my-first-vue-project-nb/blob/master/SPA-Vue-Nicol%C3%A1s%20Barrag%C3%A1n.pdf)
 
 ## Recommended IDE Setup
 
