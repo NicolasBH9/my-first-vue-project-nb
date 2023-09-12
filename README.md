@@ -1,6 +1,7 @@
 # SPA with Vue
 
 Student: Nicolás Barragán
+
 The report for this project can be found here [`SPA-Vue-Nicolás Barragán`](https://github.com/NicolasBH9/my-first-vue-project-nb/blob/master/SPA-Vue-Nicol%C3%A1s%20Barrag%C3%A1n.pdf)
 
 ## Recommended IDE Setup
