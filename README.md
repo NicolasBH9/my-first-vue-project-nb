@@ -4,6 +4,10 @@ Student: Nicolás Barragán
 
 The report for this project can be found here [`SPA-Vue-Nicolás Barragán`](https://github.com/NicolasBH9/my-first-vue-project-nb/blob/master/SPA-Vue-Nicol%C3%A1s%20Barrag%C3%A1n.pdf)
 
+## Result
+
+[Vue result](https://github.com/NicolasBH9/my-first-vue-project-nb/blob/master/SPA-Vue-Nicol%C3%A1s%20Barrag%C3%A1n.pdf)
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
